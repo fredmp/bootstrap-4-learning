@@ -1,14 +1,18 @@
 /* band.css */
+
 .jumbotron {
-  background: #fff url("../img/banjo.jpg") bottom center no-repeat;
-  background-size: cover; }
+  background: #fff url('../img/banjo.jpg') bottom center no-repeat;
+  background-size: cover;
+}
 
 .jumbotron > .container > .lead {
   color: lightgray;
-  text-shadow: 0 0 20px rgba(0, 0, 0, 0.8); }
+  text-shadow: 0 0 20px rgba(0, 0, 0, 0.8);
+}
 
 .jumbotron .container {
   max-width: 40rem;
   background: rgba(255, 255, 255, 0.2);
   padding: 2rem;
-  color: white; }
+  color: white;
+}
